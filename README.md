@@ -41,6 +41,7 @@ group by executing the following command and then re-login manually:
 sudo usermod -aG docker $USER
 ```
 
-## More Examples
+## Useful Links
 
-Visit [the official Docker samples page](https://docs.docker.com/reference/samples/).
+- [Docker CLI Cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+- [Official Docker Samples Page](https://docs.docker.com/reference/samples/)
